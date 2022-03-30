@@ -1,1 +1,1 @@
-# hello-world *italicized text *I love chinese food and pizza.* **bold text** **I have brown hair/brown eyes.**
+# hello-world *I love chinese food and pizza.* **I have brown hair/brown eyes.**
